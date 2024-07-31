@@ -1,0 +1,85 @@
+[
+{
+    "id":1,
+    "name":"Wuthering Heights",
+    "title":"Wuthering Heights is the only novel by the English author Emily Brontë, initially published in 1847 under her pen name.",
+    "price":0,
+    "category":"Free",
+    "image":"../../public/Wuthering heights (1).jpg"
+
+},
+{
+    "id":2,
+    "name":"Great Expectations",
+    "title":"Great Expectations is the thirteenth novel by Charles Dickens and his penultimate completed novel.",
+    "price":0,
+    "category":"Free",
+    "image":"../../public/Great Expectations (1).jpg"
+},
+{
+    "id":3,
+    "name":"Invisible Man",
+    "title":"Invisible Man is Ralph Ellison's first novel, the only one published during his lifetime. It was published by Random House in 1992.",
+    "price":0,
+    "category":"Free",
+    "image":"../../public/Invisible man.jpg"
+},
+{
+    "id":4,
+    "name":"David Copperfield",
+    "title":"David Copperfield is a novel by Charles Dickens, narrated by the eponymous David Copperfield, detailing his adventures in his journey from infancy to maturity.",
+    "price":0,
+    "category":"Free",
+    "image":"../../public/David Copperfield.jpg"
+},
+{
+    "id":5,
+    "name":"Beloved",
+    "title":"Beloved is a 1987 novel by American novelist Toni Morrison. Set in the period after the American Civil War, the novel tells the story of a dysfunctional family of formerly enslaved people.",
+    "price":0,
+    "category":"Free",
+    "image":"../../public/Beloved (1).jpg"
+},
+{
+    "id":6,
+    "name":"Jane Eyre",
+    "title":"Jane Eyre is a novel by the English writer Charlotte Brontë. It was published under her pen name on 19 October 1847 by Smith, Elder & Co. of London.",
+    "price":700,
+    "category":"Paid",
+    "image":"../../public/Jane eyre.jpg"
+},
+{
+    "id":7,
+    "name":"Things Fall Apart",
+    "title":"Things Fall Apart is the debut novel of Nigerian author Chinua Achebe, first published in 1958. It depicts the events of pre-colonial life in Igboland, a cultural area in modern-day southeastern Nigeria.",
+    "price":800,
+    "category":"Paid",
+    "image":"../../public/Things fall apart (1).jpg"
+},
+{
+    "id":8,
+    "name":"The Rainbow",
+    "title":"The Rainbow is a novel by British author D. H. Lawrence, first published by Methuen & Co. in 1915. It follows three generations of the Brangwen family living in Nottinghamshire.",
+    "price":700,
+    "category":"Paid",
+    "image":"../../public/The Rainbow (1).jpg"
+},
+{
+    "id":9,
+    "name":"Housekeeping",
+    "title":"Housekeeping is a 1980 novel by Marilynne Robinson. The novel was a finalist for the Pulitzer Prize for Fiction and awarded the PEN/Hemingway Award for best first novel.",
+    "price":600,
+    "category":"Paid",
+    "image":"../../public/HouseKeeping (1).jpg"
+},
+{
+    "id":10,
+    "name":"The Scarlet Letter",
+    "title":"The Scarlet Letter: A Romance is a work of historical fiction by American author Nathaniel Hawthorne, published in 1850.",
+    "price":500,
+    "category":"Paid",
+    "image":"../../public/The Scarlet letter.jpg"
+}
+
+
+]
